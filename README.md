@@ -1,6 +1,6 @@
 # Bank Terminal App
 
-Bank Terminal App is a Java command-line application that simulates basic banking operations such as deposit, withdrawal, and balance check. It allows users to log in to their account and perform various banking operations.
+Bank Terminal App is a Java command-line application that simulates basic banking operations such as deposit, withdrawal, and balance check. It allows users to log in to their account and perform various banking operations
 
 ## Features
 
