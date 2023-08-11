@@ -20,6 +20,7 @@ Bank Terminal App is a Java command-line application that simulates basic bankin
 
 ## Getting Started
 
+
 ### Prerequisites
 
 - Java Development Kit 20 (JDK) installed
